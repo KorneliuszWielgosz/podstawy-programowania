@@ -21,3 +21,7 @@ Program oblicza średnią z podanych ocen i informuje, czy student zaliczył prz
 - `CSharp/Kalkulator.cs`
 - `CSharp/Temperatury.cs`
 - `CSharp/SredniaOcen.cs`
+
+## Organizacja pracy
+Rozwiązania zostały zapisane w osobnych plikach dla języków Python i C#.
+Gałąź zadanie-1 służy do pracy nad rozwiązaniem zadania.
